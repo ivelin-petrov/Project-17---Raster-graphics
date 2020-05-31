@@ -1,0 +1,18 @@
+1
+3 image1.ppm image2.pgm image3.pbm 
+3 rotate_left negative monochrome 
+77
+3 image1.ppm image3.pbm image4.ppm 
+5 rotate_left negative grayscale rotate_right rotate_left 
+176
+4 img1.ppm img2.ppm img3.ppm fusion.ppm 
+3 grayscale monochrome rotate_left 
+261
+2 photo1.ppm photo2.ppm 
+1 negative
+309
+3 image1.ppm image2.ppm IMG7.pgm 
+4 grayscale rotate_left rotate_right monochrome
+393
+1 P1_negative.pbm 
+1 negative 
